@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Sample runtime artifacts
+cse_keyfile
+photo.png
+sse_c_keyfile
